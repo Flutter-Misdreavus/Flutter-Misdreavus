@@ -27,10 +27,6 @@
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flutter-Misdreavus&layout=compact&bg_color=F0F7E8&title_color=558B2F&text_color=3E4A3D&border_color=3E4A3D" alt="Top Languages"/>
-</p>
-
-<p align="center">
   <img src="assets/marker-divider.svg" width="70%" alt=""/>
 </p>
 

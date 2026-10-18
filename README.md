@@ -16,36 +16,18 @@
   <img src="assets/marker-divider.svg" width="70%" alt=""/>
 </p>
 
-## 🌱 About Me
+## About Me
 
-- 🎓 Junior **Computer Science** undergrad @ **Central South University**
-- 📚 Avid reader & passionate about $\textcolor{#388E3C}{\textsf{open source}}$
-- 🤖 Exploring $\textcolor{#00897B}{\textsf{cutting-edge AI}}$
-- 🦕 Curious about $\textcolor{#558B2F}{\textsf{history of science}}$ & $\textcolor{#558B2F}{\textsf{paleontology}}$
-
-<p align="center">
-  <img src="assets/marker-divider.svg" width="70%" alt=""/>
-</p>
-
-## 🧰 Tech Stack
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Ccpp%2Cc%2Cjava%2Crust%2Clatex&theme=dark"/>
-    <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,c,java,rust,latex&theme=light" alt="Languages"/>
-  </picture>
-  <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch%2Cfastapi%2Creact%2Cvue%2Cvite%2Ctailwind%2Ctauri%2Cdocker%2Cgit%2Cbash&theme=dark"/>
-    <img src="https://skillicons.dev/icons?i=pytorch,fastapi,react,vue,vite,tailwind,tauri,docker,git,bash&theme=light" alt="Frameworks & Tools"/>
-  </picture>
-</p>
+- Junior **Computer Science** undergrad @ **Central South University**
+- Avid reader & passionate about $\textcolor{#388E3C}{\textsf{open source}}$
+- Exploring $\textcolor{#00897B}{\textsf{cutting-edge AI}}$
+- Curious about $\textcolor{#558B2F}{\textsf{history of science}}$ & $\textcolor{#558B2F}{\textsf{paleontology}}$
 
 <p align="center">
   <img src="assets/marker-divider.svg" width="70%" alt=""/>
 </p>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <picture>
@@ -62,7 +44,7 @@
   <img src="assets/marker-divider.svg" width="70%" alt=""/>
 </p>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <picture>

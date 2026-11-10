@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="32" viewBox="0 0 1200 32" role="img" aria-labelledby="title desc">
+  <title id="title">Section ornament</title>
+  <desc id="desc">A pale diagonal ribbon with sky-blue and berry-pink accents.</desc>
+  <rect width="1200" height="26" fill="#FFFCFE"/>
+  <path d="M0 0H1200V26H0Z" fill="#F4F1F5"/>
+  <path d="M0 0H132L120 26H0Z" fill="#E4F7FC"/>
+  <path d="M0 0H16L4 26H0ZM27 0H34L22 26H15Z" fill="#39BCE9"/>
+  <path d="M1190 0H1200V26H1178Z" fill="#F16B9C"/>
+  <path d="M155 0H170L158 26H143ZM184 0H199L187 26H172Z" fill="#FFFCFE"/>
+</svg>

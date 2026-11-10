@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="96" viewBox="0 0 1200 96" role="img" aria-labelledby="title desc">
+  <title id="title">Closing ornament</title>
+  <desc id="desc">A circular emblem between sky-blue and berry-pink lines on a bright white background.</desc>
+  <rect width="1200" height="96" fill="#FFFFFF"/>
+  <path d="M0 0H193L148 96H0ZM1200 0H1052L1007 96H1200Z" fill="#F3F4F5"/>
+  <path d="M310 48H569" stroke="#39BCE9" stroke-width="2"/>
+  <path d="M631 48H890" stroke="#F16B9C" stroke-width="2"/>
+  <circle cx="600" cy="48" r="18" fill="#FFFFFF" stroke="#D9DDE1" stroke-width="2"/>
+  <path d="M584 41A18 18 0 0 1 616 41" fill="none" stroke="#39BCE9" stroke-width="3"/>
+  <path d="M584 55A18 18 0 0 0 616 55" fill="none" stroke="#F16B9C" stroke-width="3"/>
+  <path d="M594 51L600 42L606 51Z" fill="#707783"/>
+</svg>
